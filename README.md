@@ -1,7 +1,7 @@
 ### Hi, I’m Carla but everyone calls me Car!
 
 
-👩🏻‍💻 Backend Developer sharing my journey and learnings in tech<br/>
+👩🏻‍💻 Backend Developer from Argentina<br/>
 👩🏻‍🎓 Studying a technical degree in programming<br/>
 🌱 Currently learning Java and React<br/>
 🏗️ Building things that (hopefully) work<br/>
