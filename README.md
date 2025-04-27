@@ -5,7 +5,7 @@
 👩🏻‍🎓 Studying a technical degree in programming<br/>
 🌱 Currently learning Java and Spring boot<br/>
 🏗️ Building things that (hopefully) work<br/>
-💭 Ask me anything on [X](https://x.com/carliscoding)<br/>
+💭 Ask me anything on [X](https://x.com/carliscoding) or [Linkedin](https://www.linkedin.com/in/carla-salinas-26b163261/)<br/>
 
 
 ## 🌐 Socials:
